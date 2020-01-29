@@ -1,4 +1,3 @@
-Pratur Anahatta, [29.01.20 09:25]
 const input = document.querySelector(".inputin");
 const addBtn = document.querySelector(".tambah");
 // const deletelist = document.querySelector(".hapus");
